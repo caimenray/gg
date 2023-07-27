@@ -1,0 +1,31 @@
+iptables -Z
+
+iptables -F
+
+iptables -A INPUT -s 127.0.0.0/8 -d 127.0.0.0/8 -j ACCEPT
+
+iptables -A INPUT -m conntrack --ctstate INVALID -j DROP
+
+iptables -A INPUT -p tcp -m tcp -m connlimit --connlimit-above 8 --connlimit-mask 32 --connlimit-saddr -j DROP
+
+iptables -A INPUT -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
+
+iptables -A INPUT -p tcp --dport 22 -m conntrack --ctstate NEW -j ACCEPT
+
+iptables -A INPUT -p icmp -m icmp ! --icmp-type 8 -j ACCEPT
+
+iptables -P INPUT DROP
+
+iptables-save > /root/iptables.txt
+
+crontab -e
+(select nano)
+Paste:
+
+@reboot sudo iptables-restore < /root/iptables.txt
+
+(press ctrl+o)
+(press enter)
+(press ctrl+x)
+
+reboot
