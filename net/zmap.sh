@@ -6,6 +6,7 @@ yum install gcc cmake gmp gmp-devel libpcap-devel gengetopt byacc flex -y
 yum install json-c-doc.noarch json-c.i686 json-c.x86_64 json-c-devel.i686 json-c-devel.x86_64 -y
 yum install epel-release -y
 yum install gengetopt -y
+sudo yum install wget -y
  
 wget https://github.com/zmap/zmap/archive/v2.1.0.tar.gz
 tar -xvf v2.1.0.tar.gz
