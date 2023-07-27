@@ -1,6 +1,6 @@
 <?php
 
-// IPLookup coded by Snickers for the Cayosin c2 - Place File in var/www/html
+// IPLookup coded by saiko for the Saiko c2 ver of Cayo- Place File in var/www/html
 
 $ip = $_GET['host'];
 
