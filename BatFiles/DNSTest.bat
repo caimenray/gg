@@ -1,7 +1,7 @@
 @ECHO off
 ECHO ===============================================
 ECHO DNS PING TEST
-ECHO BY: CAIMEN, JULY 2023
+ECHO BY: SAIKO
 ECHO ===============================================
 CALL:IP 8.8.8.8
 ECHO * Google 8.8.8.8:			%ms%
