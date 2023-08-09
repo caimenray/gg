@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Cayosin v3 Auto-Builder for Centos by Tragedy
+#Cayosin v3 Auto-Builder for Centos by saiko
 
 import sys
 import time
