@@ -58,5 +58,5 @@ IP Lookup reaches out through an API to grab address info. If for some reason yo
 reload the php file to your server. If you bought a build or lifetime builds from me, just shoot me a message and I'll reload it for you.
 ---------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------
-*Disclaimers* Version 3 is NOT modified of version 1 or 2. This is completely brand new, coded from complete scratch by Snickers.
+*Disclaimers* Version 3 is NOT modified of version 1 or 2. This is completely brand new, coded from complete scratch by Saiko.
 The credits for the RHex methods go to Studo.*
