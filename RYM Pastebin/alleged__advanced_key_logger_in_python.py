@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #                                     [+]---- 'Alleged' Key Logger ----[+]
-#                                     |           -Tragedy-            |
+#                                      |             -saiko-            |
 # [+]=Info=---------------------------[+]------------------------------[+]--------------------------------------[+]
 #  | ~ This Was Created To Be Ran On Computers That Are Owned By The User                                        |
 #  | ~ You Can Either Manually Download The Required Modules On Targeted Computers Or Do It Through Batch        |
