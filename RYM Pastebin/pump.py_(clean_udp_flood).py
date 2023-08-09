@@ -1,6 +1,6 @@
 #[+]===============================[+]
 # |  Simple, Clean UDP Flood in Py  |
-# |           - Tragedy             |
+# |           - saiko               |
 # |         python Pump.py          |
 #[+]===============================[+]    
 import os
