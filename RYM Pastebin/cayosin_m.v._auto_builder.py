@@ -1,4 +1,4 @@
-#Cayosin Auto-Builder by Tragedy
+#Cayosin Auto-Builder by saiko
 #Install and Set Up MySQL/Cayosin DB Beforehand
 #I'm Not Rewriting The Entire Database To Work With The mysql.connector Module
 
