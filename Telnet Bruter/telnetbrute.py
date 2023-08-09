@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Simple Telnet Bruter | By; LiGhT
+# Simple Telnet Bruter | - saiko
 # Lots of false possitives but pulls alot of results extremely fast
 
 import threading
