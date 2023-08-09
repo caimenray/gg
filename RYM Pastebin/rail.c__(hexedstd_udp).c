@@ -1,5 +1,5 @@
 /*[+]=====================================[+]
-   |            Rail.c - Tragedy           |
+   |            Rail.c - saiko             |
    |  Hexed STD From Cayo + UDP On Thread  |
    |  Run On Server (Like A "Perl Script") |
    |  gcc -o Rail Rail.c -pthread; ./Rail  |
