@@ -1,4 +1,4 @@
-# Auto (SSH/Telnet) Scanning Script - Tragedy
+# Auto (SSH/Telnet) Scanning Script - saiko
 # Yes This Is Autistic
 # But I'm Tired Of Being Asked For It
 
