@@ -355,7 +355,6 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/fa4a38Waod/SQLi_Dumper_v8.3_rar");
             }
         }
@@ -369,7 +368,6 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/H85730W4o5/unfx-proxy-parser-2.0.0-ia32.nsis_7z");
             }
         }
@@ -383,7 +381,6 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/h4573dWco4/pb_exe");
             }
         }
@@ -397,20 +394,17 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/Pd503dWdo6/B3RAP_Leecher_v2.1.0.0_rar");
             }
         }
 
         private void TSMBtn_Click(object sender, EventArgs e)
         {
-            Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
             Process.Start("https://www.mediafire.com/file/p4m8m6rwctdgd25/TSM.rar/file");
         }
 
         private void FirewallBtn_Click(object sender, EventArgs e)
         {
-            Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
             Process.Start("https://www.mediafire.com/file/wbxgkdl7apremjp/Firewall+code.txt/file");
         }
 
@@ -423,7 +417,6 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/Db9830Wdo4/NinjaGram_exe");
             }
         }
@@ -437,7 +430,6 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/F47e36W4o2/Get_Fuxked_exe");
             }
         }
@@ -451,14 +443,12 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/X4753bW9o9/SPv5_exe");
             }
         }
 
         private void ScannerBtn_Click(object sender, EventArgs e)
         {
-            Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
             Process.Start("https://www.mediafire.com/file/tzhljkoia73le7j/Saiko+Scanner.rar/file");
         }
 
@@ -474,7 +464,6 @@ namespace SolidBeta
 
         private void IGBtn_Click(object sender, EventArgs e)
         {
-            Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
             Process.Start("https://cracked.to/Thread-FAST-INSTAGRAM-USERNAME-CHECKER-GET-STARTED-WITH-SELLING-IG-S");
         }
 
@@ -487,7 +476,6 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/r9I0n41aod/VyprVPN_Checker_by_xRisky_zip");
             }
         }
@@ -501,7 +489,6 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/B8l9zfM9nf/NordVPN_Checker_v2_by_xRisky_zip");
             }
         }
@@ -515,7 +502,6 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/32ze30Wdo6/XboxLiveAccountTool_exe");
             }
         }
@@ -534,7 +520,6 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/941b3bWfoe/TikTok_Report_Bot_exe");
             }
         }
@@ -548,7 +533,6 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/f2tb3bW7oe/Dork_Searcher_EZ_anontechtonic.blogspot.com_rar");
             }
         }
@@ -562,32 +546,27 @@ namespace SolidBeta
             }
             else
             {
-                Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
                 Process.Start("https://anonfiles.com/j43537W1o2/TSP_Dork_generator_v11.0_rar");
             }
         }
 
         private void C1Btn_Click(object sender, EventArgs e)
         {
-            Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
             Process.Start("https://anonfiles.com/x5ac42W5o0/200k_gaming_txt");
         }
 
         private void C2Btn_Click(object sender, EventArgs e)
         {
-            Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
             Process.Start("https://anonfiles.com/v1bf41W3o4/550K_HQ_EMAIL_PASS_COMBOLIST_NETFLIX_VPN_HULU_FORTNIT_AMAZON_STREAMING_SHOPPING_SPOTIFY_txt");
         }
 
         private void C3Btn_Click(object sender, EventArgs e)
         {
-            Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
             Process.Start("https://anonfiles.com/t0cb41W9o7/808k_txt");
         }
 
         private void C4Btn_Click(object sender, EventArgs e)
         {
-            Task.Run(() => DiscordLogging.DiscordLog("memdl", ResponseInformation.loginresponse.UserName, Tools.GetClientIP()));
             Process.Start("https://anonfiles.com/T2c140W8of/700k_France_Combolist_txt");
         }
 
@@ -652,8 +631,6 @@ namespace SolidBeta
         private void GeoBtn_Click(object sender, EventArgs e)
         {
             {
-                Task.Run(() => DiscordLogging.DiscordLog("geoip", ResponseInformation.loginresponse.UserName, Tools.GetClientIP(), GeoIPTb.Text));
-
                 string res = Tools.GeoIP(GeoIPTb.Text, ResponseInformation.loginresponse.UserName, ResponseInformation.Password, ProgramInformation.ProgramId);
                 res = res.Replace("\"", string.Empty);
                 res = res.Replace("\\r\\n", Environment.NewLine);
@@ -939,7 +916,7 @@ namespace SolidBeta
 
         private void DiscordBtn_Click(object sender, EventArgs e)
         {
-            Process.Start("https://discord.gg/xhX2DFU");
+            MessageBox.Show("Currently Down.");
         }
 
         private void CTOBtn_Click(object sender, EventArgs e)
@@ -1016,7 +993,7 @@ namespace SolidBeta
 
         private void AgreeBtn_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Thank you for using SolidBeta and agreeing to our TOS; if you need support contact saiko#0001 on discord.");
+            MessageBox.Show("Thank you for using SolidBeta and agreeing to our TOS; if you need support contact atkhr on discord.");
             InfoBtn.Visible = true;
             NetBtn.Visible = true;
             ToolsBtn.Visible = true;
