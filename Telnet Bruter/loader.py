@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Simple Telnet Loader | By; LiGhT
+# Simple Telnet Loader | - saiko
 
 import sys, re, os, socket, time
 from threading import Thread
