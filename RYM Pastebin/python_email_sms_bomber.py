@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #[+]========================================[+]
-# |  Simple Email/SMS Bomber - Tragedy       |
+# |  Simple Email/SMS Bomber - saiko         |
 # |  Make A Burner Gmail/Yahoo Account       |
 # |  Disable 2FA And Allow 'Less Secure Apps'|
 # |  This Is For Educational Purposes Only!  |
